@@ -1,14 +1,44 @@
 ## Olá, eu sou Samuel Santos 👋
 
-Tenho praticado muito para me tornar um Front-end Developer Senior. :computer: <br>
-:rocket:  &nbsp; Cursando Baharelado em Sistemas de Informação no **IFBA campus Feira de Santana**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
- <br/> :computer: &nbsp; Tecnologias: React.js, Styled Components, TypeScript e React Native
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, e seriados no Netflix.
+Desenvolvedor de software profundamente comprometido com o desenvolvimento de soluções de software confiáveis e sustentáveis. Com forte ênfase na colaboração, trabalho em estreita colaboração com minha equipe para alcançar o sucesso do negócio como um todo.  💻
+
+💚 Minhas principais competências são com as seguintes ferramentas para o desenvolvimento de aplicações Frontend e Testes, além de modelos de arquiteturas para organiação de diretórios.
+
+  #### Desenvolvimento Frontend <br>
+      > TypeScript, Next, React, React Native
+      > Styled Components e Tailwind
+      > ContextAPI e Redux
+      > SSR, Axios e Insomnia
+      > Deployment
+  
+   #### Testes
+      > Jest e Cypress
+      > Unity, Integration, e2e
+      > TDD
+
+   #### Outros
+      > Clean Architecture
+      > Git, GitHub, Git Flow
+      > Scrum, Jira, Trello
+      > Design Thinking, Design Pattern, Design System, Modular Design
+
+   #### Estudando
+      > Leadership Communication
+      > Habilidades de liderança
+      > Micro frontend
+      > Atomic Design
+      > Inglês
+ 
+🚀 Com quase 2 anos de experiência profissional nas tecnologias citadas, tenho buscado melhorias contínuas, tanto nas habilidades mais tecnica quando nas soft skills.
+
+ #### 📧 Entre em contato comigo:
+      > 75 99857-8488
+      > santossamuelplus@gmail.com
+      > https://github.com/Santos-Samuels
  
   ##
   
-<a href="https://instagram.com/santossamuelplus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=75998578488&text=Olá%2C%20Samuel!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:santossamuelplus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-santos-0aaa2a1b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
@@ -17,20 +47,16 @@ Tenho praticado muito para me tornar um Front-end Developer Senior. :computer: <
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santos-Samuels&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santos-Samuels&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
-  <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3">
-  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js">
-  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS">
-  <img align="center" alt="Samuel-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original.svg" title="Vue.js">
- <!--   <img align="center" alt="Samuel-BS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg"> -->
-  <img align="center" alt="Samuel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" title="Figma">
  
- <!-- <img align="center" alt="Samuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <!-- <img align="center" alt="Samuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <!-- <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <!-- <img align="center" alt="Samuel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+<div style="display: inline_block"><br>
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
  
  ##
