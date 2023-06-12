@@ -26,6 +26,7 @@ Desenvolvedor de software profundamente comprometido com o desenvolvimento de so
       > Leadership Communication
       > Habilidades de liderança
       > Micro frontend
+      > Docker
       > Atomic Design
       > Inglês
  
